@@ -1,3 +1,4 @@
+# Import all modules and utilities
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.orm import validates
 db = SQLAlchemy()
